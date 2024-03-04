@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab3transporte_carga</string>
+    <string name="solicitud">Solicitud de Transporte de carga</string>
+    <string name="nombre">Nombre Comerciante</string>
+    <string name="detalles">Detalles(paga,ubicacion,etc)</string>
+    <string name="enviar">enviar</string>
+    <string-array name="tipodetransporte">
+        <item>Solido</item>
+        <item>Agua</item>
+        <item>Gas</item>
+    </string-array>
+</resources>
